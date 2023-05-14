@@ -10,7 +10,7 @@ Train Descriptions:
 ## **TrueNAS SCALE**: Primary server
 
 |Icon|Chart|Train|Description|
-| :-------------: |:-------------: | :-------------:	| :-------------	|
+| :-------------------------------------------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/adguard-home.png" height="36" /> | **adguard-home** | ✅ | Free and open source, powerful network-wide ads & trackers blocking DNS server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" height="36" /> | **cert-manager** | 👔 | Certificate management for Kubernetes |
