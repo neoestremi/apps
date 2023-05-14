@@ -4,28 +4,26 @@
 |Icon|App|Image|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/adguardhome.svg" width="48" height="36" /> | **adguard-home** | docker.io/adguard/adguardhome:latest | Free and open source, powerful network-wide ads & trackers blocking DNS server. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | Authelia is a Single Sign-On Multi-Factor portal for web apps |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager** | Certificate management for Kubernetes |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app** | Advanced tool to create your own TrueCharts-based App |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dashdot.png" width="48" height="36" /> | **dashdot** | dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/doplarr.png" width="48" height="36" /> | **doplarr** | An *arr Request Bot for Discord |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" width="48" height="36" /> | **external-service<sup>x17</sup>** | Allow external services to be used like Apps. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/filebrowser.png" width="48" height="36" /> | **filebrowser** | Filebrowser provides a file managing interface within a specified directory |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/flaresolverr.png" width="48" height="36" /> | **flaresolverr** | FlareSolverr is a proxy server to bypass Cloudflare protection |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/lldap.png" width="48" height="36" /> | **lldap** | Lightweight ldap server for authentication and user management |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/nextcloud.png" width="48" height="36" /> | **nextcloud** | A private cloud server that puts the control and security of your own data back into your hands. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/overseerr.png" width="48" height="36" /> | **overseerr** | Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services such as Sonarr, Radarr and Plex! |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex.png" width="48" height="36" /> | **plex** | Plex Media Server |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-auto-languages.png" width="48" height="36" /> | **plex-auto-languages** | Automated language selection for Plex TV Shows. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/portainer-ce.png" width="48" height="36" /> | **portainer-ce** | Container management made easy |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png" width="48" height="36" /> | **qbittorrent** | qBittorrent is a cross-platform free and open-source BitTorrent client |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" width="48" height="36" /> | **radarr** | A fork of Sonarr to work with movies à la Couchpotato |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" width="48" height="36" /> | **scrutiny** | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/sonarr.png" width="48" height="36" /> | **sonarr** | Smart PVR for newsgroup and bittorrent users |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/tautulli.png" width="48" height="36" /> | **tautulli** | A Python based monitoring and tracking tool for Plex Media Server |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/theme-park.png" width="48" height="36" /> | **theme-park** | Custom themes for your favorite apps! |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/traefik.png" width="48" height="36" /> | **traefik** | Traefik is a flexible reverse proxy and Ingress Provider. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/vaultwarden.png" width="48" height="36" /> | **vaultwarden** | Unofficial Bitwarden compatible server written in Rust |
+| <img src="" width="48" height="36" /> | **adguardhome-sync** | ghcr.io/bakito/adguardhome-sync:latest | Synchronize AdGuardHome config to replica instances. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/dashdot.png" width="48" height="36" /> | **dashdot** | docker.io/mauricenino/dashdot:latest | dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. It is intended to be used for smaller VPS and private servers. |
+| <img src="https://discord.js.org/static/logo.svg" width="48" height="36" /> | **discord-bot** | local build of discord.js | discord.js is a powerful Node.js module that allows you to interact with the Discord API very easily. |
+| <img src="https://crazymax.dev/diun/assets/logo.png" width="48" height="36" /> | **diun** | docker.io/crazymax/diun:latest | Diun is a CLI application written in Go and delivered as a single executable (and a Docker image) to receive notifications when a Docker image is updated on a Docker registry. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/ferdium.png" width="48" height="36" /> | **ferdium** | docker.io/ferdium/ferdium-server:latest | Server for Ferdium : Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/filebrowser.svg" width="48" height="36" /> | **filebrowser** | docker.io/filebrowser/filebrowser:latest | Filebrowser provides a file managing interface within a specified directory. |
+| <img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons/src/apps_rustdesk.svg" width="48" height="36" /> | **hbbr** | rustdesk/rustdesk-server:latest-arm64v8 | Relay for Rustdesk : Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security. |
+| <img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons/src/apps_rustdesk.svg" width="48" height="36" /> | **hbbs** | rustdesk/rustdesk-server:latest-arm64v8 | Server for Rustdesk : Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. You have full control of your data, with no concerns about security. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/homarr.svg" width="48" height="36" /> | **homarr** | ghcr.io/ajnart/homarr:latest | A sleek, modern dashboard that puts all of your apps and services at your fingertips. |
+| <img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus_icons/src/apps_jdownloader.svg" width="48" height="36" /> | **jdownloader2** | docker.io/jlesage/jdownloader-2:latest | JDownloader 2 is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/metube.png" width="48" height="36" /> | **metube** | ghcr.io/alexta69/metube:latest | Web GUI for youtube-dl (using the yt-dlp fork) with playlist support. |
+| <img src="https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/n8n.svg" width="48" height="36" /> | **n8n** | docker.n8n.io/n8nio/n8n:latest | n8n is an extendable workflow automation tool. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/organizr.png" width="48" height="36" /> | **organizr** | docker.io/organizr/organizr:latest | Organizr allows you to setup "Tabs" that will be loaded all in one webpage. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/portainer.svg" width="48" height="36" /> | **portainer_agent** | portainer/agent:latest | The Portainer Agent is a workaround for a Docker API limitation when using the Docker API to manage a Docker environment. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/sshwifty.svg" width="48" height="36" /> | **sshwifty** | niruix/sshwifty:latest | Sshwifty is a SSH and Telnet connector made for the Web. |
+| <img src="https://nsm09.casimages.com/img/2023/05/14//23051412315823575618176955.png" width="48" height="36" /> | **troddit** | docker.io/bsyed/troddit:latest | An alternative front end web client for Reddit. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/upsnap.svg" width="48" height="36" /> | **upsnap** | ghcr.io/seriousm4x/upsnap:latest | A simple wake on lan app written with SvelteKit, Go, PocketBase and nmap. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/uptime-kuma.svg" width="48" height="36" /> | **uptime-kuma** | docker.io/louislam/uptime-kuma:latest | Uptime Kuma is an easy-to-use self-hosted monitoring tool. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/whooglesearch.png" width="48" height="36" /> | **whoogle** | docker.io/benbusby/whoogle-search:latest | Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. |
+| <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/wizarr.png" width="48" height="36" /> | **wizarr** | ghcr.io/wizarrrr/wizarr:latest | Wizarr is a automatic user invitation system for Plex, Jellyfin and Emby. |
 
- Installed Services Count: **39**
+ Installed Services Count: **21**
 ___
