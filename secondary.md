@@ -3,7 +3,7 @@
 
 |Icon|App|Image|Description|
 | :-------------: |:-------------: | :-------------:	| :-------------	|
-| <img src="https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/adguardhome.svg" width="48" height="36" /> | **adguard-home** | Free and open source, powerful network-wide ads & trackers blocking DNS server. |
+| <img src="https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/adguardhome.svg" width="48" height="36" /> | **adguard-home** | docker.io/adguard/adguardhome:latest | Free and open source, powerful network-wide ads & trackers blocking DNS server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" width="48" height="36" /> | **authelia** | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" width="48" height="36" /> | **cert-manager** | Certificate management for Kubernetes |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" width="48" height="36" /> | **custom-app** | Advanced tool to create your own TrueCharts-based App |
