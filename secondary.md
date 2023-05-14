@@ -2,7 +2,7 @@
 ## **Raspberry Pi 4**: Secondary server
 
 |Icon|App|Image|Description|
-| :----------------------------------: |:-------------: | :-------------:	| :-------------	|
+| :-------------: |:-------------: | :-------------:	| :-------------	|
 | <img src="https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/adguardhome.svg" height="36" /> | **adguard-home** | docker.io/adguard/adguardhome:latest | Free and open source, powerful network-wide ads & trackers blocking DNS server. |
 | <img src="" height="36" /> | **adguardhome-sync** | ghcr.io/bakito/adguardhome-sync:latest | Synchronize AdGuardHome config to replica instances. |
 | <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/dashdot.png" height="36" /> | **dashdot** | docker.io/mauricenino/dashdot:latest | dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. It is intended to be used for smaller VPS and private servers. |
