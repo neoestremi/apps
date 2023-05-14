@@ -14,7 +14,7 @@ Train Descriptions:
 | <img src="https://cdn.jsdelivr.net/gh/loganmarchione/homelab-svg-assets/assets/adguardhome.svg" height="36" /> | **adguard-home** | ✅ | Free and open source, powerful network-wide ads & trackers blocking DNS server. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/authelia.png" height="36" /> | **authelia** | 👔 | Authelia is a Single Sign-On Multi-Factor portal for web apps |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/cert-manager.png" height="36" /> | **cert-manager** | 👔 | Certificate management for Kubernetes |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" height="36" /> | **custom-app** | ✅ | Advanced tool to create your own TrueCharts-based App |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/custom-app.png" height="36" /> | **custom-app** : hotio:jackett | ✅ | Advanced tool to create your own TrueCharts-based App |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/dashdot.png" height="36" /> | **dashdot** | ✅ | dash. (or dashdot) is a modern server dashboard, running on the latest tech, designed with glassmorphism in mind. |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/doplarr.png" height="36" /> | **doplarr** | ✅ | An *arr Request Bot for Discord |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/external-service.png" height="36" /> | **external-service<sup>x17</sup>** | ✅ | Allow external services to be used like Apps. |
