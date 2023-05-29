@@ -25,7 +25,7 @@ Train Descriptions:
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/overseerr.png" height="36" /> | **overseerr** | ✅ | Overseerr is a free and open source software application for managing requests for your media library. It integrates with your existing services such as Sonarr, Radarr and Plex! |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex.png" height="36" /> | **plex** | ✅ | Plex Media Server |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/plex-auto-languages.png" height="36" /> | **plex-auto-languages** | ✅ | Automated language selection for Plex TV Shows. |
-| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/portainer-ce.png" height="36" /> | **portainer-ce** | ✅ | Container management made easy |
+| <img src="https://truecharts.org/img/hotlink-ok/chart-icons/portainer-ce.png" height="36" /> | **portainer** | ✅ | Container management made easy |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/qbittorrent.png" height="36" /> | **qbittorrent** | ✅ | qBittorrent is a cross-platform free and open-source BitTorrent client |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/radarr.png" height="36" /> | **radarr** | ✅ | A fork of Sonarr to work with movies à la Couchpotato |
 | <img src="https://truecharts.org/img/hotlink-ok/chart-icons/scrutiny.png" height="36" /> | **scrutiny** | ✅ | Scrutiny WebUI for smartd S.M.A.R.T monitoring. Scrutiny is a Hard Drive Health Dashboard & Monitoring solution. |
